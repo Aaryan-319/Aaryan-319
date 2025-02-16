@@ -1,16 +1,15 @@
-## Hi there 👋
+###🚀 Aaryan Chaulagain | IT Enthusiast & Aspiring AI/ML Developer
 
-<!--
-**Aaryan-319/Aaryan-319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Aaryan Chaulagain, an A-level student at Xavier International College, Kathmandu. Passionate about AI, ML, DL, and Quantum Computing, I explore innovative technologies to solve real-world problems.
 
-Here are some ideas to get you started:
+###⚡ Interests
+	•	🤖 Artificial Intelligence & Machine Learning
+	•	🧠 Deep Learning & Reinforcement Learning
+	•	🔬 Quantum Computing & Cryptography
+	•	🌐 Full-Stack Development (React & Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###💡 Current Focus
+	•	⚛️ Building Scalable AI Applications
+	•	💻 Developing Interactive Web Apps with React
+
+###🔍 Always learning, building, and collaborating on cutting-edge projects!
