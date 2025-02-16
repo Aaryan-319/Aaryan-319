@@ -5,7 +5,6 @@
 ### ⚡ Interests
 	•	🤖 Artificial Intelligence & Machine Learning
 	•	🧠 Deep Learning & Reinforcement Learning
-	•	🔬 Quantum Computing & Cryptography
 	•	🌐 Full-Stack Development (React & Python)
 
 ### 💡 Current Focus
